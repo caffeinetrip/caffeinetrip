@@ -8,7 +8,6 @@ i create games, create different music, and write chatbots for messengers.
 🎮 i love joining **game jams** and shaping strange ideas into interactive experiences  
 🎧 i make **ambient** and **electronic music** for games — moody, minimal, and a little haunted  
 🤖 i write **discord** and **telegram bots**, also want to learn how to make chat bots soon  
-🥰 my hobbys its wathing anime, listening music and play vissual novels..
 
 currently: creating games with **pygame** + **ModernGL**, writing **GLSL shaders**, and learning **AI dev**
 
