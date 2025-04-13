@@ -5,9 +5,9 @@
 hi. i'm **soma** — indie developer & music creator from **Ukraine**  
 i create games, create different music, and write chatbots for messengers.
 
-🎮 i love joining **game jams** and shaping strange ideas into interactive experiences  
-🎧 i make **ambient** and **electronic music** for games — moody, minimal, and a little haunted  
-🤖 i write **discord** and **telegram bots**, also want to learn how to make chat bots soon  
+🎮 i love joining **game jams**, usually i work solo. Favorite jam: Ludum Dare -_- <br>
+🎧 i make **ambient** and **electronic music** for games — moody, minimal, and a little haunted <br>
+🤖 i write **discord** and **telegram bots**, also want to learn how to creat ai chat bots soon
 
 currently: creating games with **pygame** + **ModernGL**, writing **GLSL shaders**, and learning **AI dev**
 
