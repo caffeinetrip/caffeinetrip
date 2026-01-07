@@ -1,13 +1,9 @@
 # soma
 
 indie dev & designer from Ukraine.  
-games · design · bots · some other stuff
-game jams. discord/telegram scripts.
-pygame + ModernGL · GLSL shaders · AI dives.
-
-## stats 🚀
-![soma github stats](https://github-readme-stats.vercel.app/api?username=caffeinetrip&show_icons=true&theme=dark)
-![soma Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeinetrip&theme=dark)
+games · design · bots · some other stuff  
+game jams. discord/telegram scripts.  
+pygame + ModernGL · GLSL shaders · AI dives.  
 
 ## recent ^^
 ![shot](https://github.com/user-attachments/assets/b7d015b7-5e67-43ec-8c64-22a5a20209b2)  
