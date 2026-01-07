@@ -6,8 +6,8 @@ game jams. discord/telegram scripts.
 pygame + ModernGL · GLSL shaders · AI dives.
 
 ## stats 🚀
-![stats](https://github-readme-stats.vercel.app/api?username=caffeinetrip&show_icons=true&theme=dark)  
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeinetrip&theme=dark)
+![soma github stats](https://github-readme-stats.vercel.app/api?username=caffeinetrip&show_icons=true&theme=dark)
+![soma Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caffeinetrip&theme=dark)
 
 ## recent ^^
 ![shot](https://github.com/user-attachments/assets/b7d015b7-5e67-43ec-8c64-22a5a20209b2)  
